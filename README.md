@@ -11,7 +11,14 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 - Loan-facilties
 - CRM
 - [141](https://141.ir/)
+- [Ridesahring-app]
 
+
+#### SideProjects
+- [FingerPrint scanner](https://github.com/Hasanzakii/FingerPrint_WindowsForm.git)
+- [Webcam-PhotoCapture](https://github.com/Hasanzakii/webcam_windowsform.git)
+- [PhotoEDitor](https://github.com/Hasanzakii/PhotoEditor.git)
+- [PhoneBook](phone book application for a company as an my intership project)
 
 #### Contributes
 
@@ -24,6 +31,7 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 
 #### Course Projects
+
 
 
 
