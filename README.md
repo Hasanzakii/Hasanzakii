@@ -29,14 +29,14 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 
 #### Algo-trading
-
+under contraction ...
 
 
 #### compouter-vision
-
+under contraction ...
 
 #### Course Projects
-
+under contraction ...
 
 
 
