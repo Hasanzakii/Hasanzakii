@@ -8,10 +8,10 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 #### Professional Career Projects (companies)
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
-- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git)
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (I was one of the maintainers of Witel company)
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
-- [141](https://141.ir/)
-- [Ridesahring-app](https://gitlab.com/witelgroup/ipay-laravel.git) at Witel
+- [141](https://141.ir/) (I was one of the develpers of project Witel company)
+- [Ridesahring-app](https://gitlab.com/witelgroup/ipay-laravel.git) (I was one of the develpers of project Witel company)
 
 
 #### SideProjects
