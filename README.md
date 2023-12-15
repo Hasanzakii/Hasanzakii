@@ -44,3 +44,5 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif r
 
 </details>
 <br>
+ ---
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasanzakii)](https://github.com/Hasanzakii/github-readme-stats)
