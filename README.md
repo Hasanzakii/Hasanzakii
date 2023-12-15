@@ -1,5 +1,5 @@
 <p align="left">
-Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif reacp of my CV:
+Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif reacp of my CV:
 </p>
 
 
