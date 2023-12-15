@@ -8,10 +8,10 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 #### Professional Career Projects
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
-- Loan-facilties
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git)
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
 - [141](https://141.ir/)
-- Ridesahring-app
+- [Ridesahring-app](https://gitlab.com/witelgroup/ipay-laravel.git)
 
 
 #### SideProjects
