@@ -1,4 +1,4 @@
-Hey,my name is Hasan Zaki. I'm a software engineer and backend developer here is breife recap of my what i have done
+<h1 align="center"> Hey, I'm Hasan Zaki </h1>
 
 
 ### Professional Career Projects
