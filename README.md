@@ -1,5 +1,5 @@
 
-<img width="1000" height="200" src="./img/image1.jpg">
+<img width="2000" height="200" src="./img/image1.jpg">
 <p align="left">
 Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif reacp of my CV:
 </p>
