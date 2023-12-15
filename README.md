@@ -29,8 +29,7 @@ Hey,my name is Hasan Zaki. I'm a software engineer and backend developer here is
    Tech stack:
 </summary>
    <br>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,c#" />
-  </a
+   - laravel
+   -.net coer
 </details>
 <br>
