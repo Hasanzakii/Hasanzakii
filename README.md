@@ -43,8 +43,10 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 <summary>
    contact with me:
 </summary>
-   <br>
-   - [Gmail]zakitehran@gmail.com
+   
+   ### contact
+   - [Gmail](zakitehran@gmail.com)
    - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_self_edit_contact-info%253BK4YzE9qVSIuiJonYMJu62w%253D%253D)
+
 </details>
 <br>
