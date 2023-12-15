@@ -1,7 +1,8 @@
-<h1 align="center"> Hey, I'm Hasan Zaki </h1>
+<h1 align="center"> Hey, I'm Hasan Zaki
 <p align="center">
 I'm a software engineer and bakend developer here is the breif reacp of my CV
 </p>
+</h1>
 
 
 ## Some of my important activities
