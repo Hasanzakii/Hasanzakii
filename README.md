@@ -12,8 +12,7 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
 - [141](https://141.ir/) (one of the develpers of project at [Witel](https://witel.ir/) company)
 - [Ridesahring-app](https://github.com/Hasanzakii/RideSharing.git) (I was one of the develpers of project at [Witel](https://witel.ir/) company)
-
-
+- 
 #### SideProjects
 - [FingerPrint scanner](https://github.com/Hasanzakii/FingerPrint_WindowsForm.git)
 - [Webcam-PhotoCapture](https://github.com/Hasanzakii/webcam_windowsform.git)
@@ -26,17 +25,13 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
 - [141](https://141.ir/)
 - [Ridesahring-app](https://github.com/Hasanzakii/RideSharing.git)
-
-
+- 
 #### Algo-trading
 - under contraction ...
 
 
 #### Course Projects
 - under contraction ...
-
-
-
 ---
 <br>
 <details>
@@ -44,8 +39,7 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
    contact with me:
 </summary>
    
-   ### contact
-   - [Gmail](zakitehran@gmail.com)
+   - zakitehran@gmail.com
    - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%253Ali%253Apage%253Ad_flagship3_profile_self_edit_contact-info%253BK4YzE9qVSIuiJonYMJu62w%253D%253D)
 
 </details>
