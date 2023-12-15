@@ -8,9 +8,9 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 #### Professional Career Projects (companies)
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
-- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers of project at Witel company)
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers of project at [Witel](https://witel.ir/) company)
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
-- [141](https://141.ir/) (one of the develpers of project at Witel company)
+- [141](https://141.ir/) (one of the develpers of project at [Witel](https://witel.ir/)company)
 - [Ridesahring-app](https://gitlab.com/witelgroup/ipay-laravel.git) (I was one of the develpers of project at [Witel](https://witel.ir/) company)
 
 
@@ -29,14 +29,13 @@ Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif
 
 
 #### Algo-trading
-under contraction ...
-
+- under contraction ...
 
 #### compouter-vision
-under contraction ...
+- under contraction ...
 
 #### Course Projects
-under contraction ...
+- under contraction ...
 
 
 
