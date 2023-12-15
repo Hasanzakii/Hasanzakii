@@ -1,10 +1,10 @@
 <p align="left">
-Hey, I'm Hasan Zaki.I'm a software engineer and bakend developer here is the breif reacp of my CV
+Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is the breif reacp of my CV:
 </p>
 
 
 
-# Some of my important activities
+## Some of my important activities
 
 #### Professional Career Projects
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
