@@ -1,7 +1,6 @@
-
-<p align="center">
+<h3 align="center">
 Hey, I'm Hasan Zaki.I'm a software engineer and bakend developer here is the breif reacp of my CV
-</p>
+</h3>
 
 
 
