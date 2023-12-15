@@ -1,6 +1,9 @@
 <h1 align="center"> Hey, I'm Hasan Zaki </h1>
 
 
+---
+## Some of my important activities
+----
 ### Professional Career Projects
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
 - Loan-facilties
