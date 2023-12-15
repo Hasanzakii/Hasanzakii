@@ -1,6 +1,6 @@
 
 <img width="2700" height="300" src="./img/image1.jpg">
-<p align="left">
+<p align="center">
 Hey, I'm Hasan Zaki. a software engineer and bakend developer, here is a breif reacp of my CV:
 </p>
 
