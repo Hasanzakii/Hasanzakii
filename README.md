@@ -31,7 +31,7 @@ Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif re
 #### Algo-trading
 - under contraction ...
 ```bash
-git clone
+git clone https://gitlab.com/witelgroup/141.v2.git
 ```
 
 #### Course Projects
