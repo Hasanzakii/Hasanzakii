@@ -30,7 +30,9 @@ Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif re
 
 #### Algo-trading
 - under contraction ...
-
+```bash
+git clone
+```
 
 #### Course Projects
 - under contraction ...
