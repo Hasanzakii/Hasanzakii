@@ -1,12 +1,12 @@
 
 <img width="2700" height="300" src="./img/image1.jpg">
 <p align="center">
-Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif reacp of my CV:
+Hey, I'm Hasan Zaki,a software engineer and a bakend developer, here is the breif reacp of my CV:
 </p>
 
 
 
-## Some of my important activities
+## my important activities
 
 #### Professional Career Projects (companies)
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
@@ -32,6 +32,15 @@ Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif re
 - under contraction ... 
 
 #### Course Projects
+- under contraction ...
+
+#### Machine-learning Projects
+- under contraction ...
+
+#### AR-VR Projects(computer vision)
+- under contraction ...
+  
+#### Data-scraping Prtojects
 - under contraction ...
 ---
 <br>
