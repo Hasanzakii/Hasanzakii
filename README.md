@@ -29,8 +29,7 @@ Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif re
 - [Ridesahring-app](https://github.com/Hasanzakii/RideSharing.git)
 
 #### Algo-trading
-- under contraction ...
-- 
+- under contraction ... 
 
 #### Course Projects
 - under contraction ...
