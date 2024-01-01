@@ -10,10 +10,10 @@ Hey, I'm Hasan Zaki.A software engineer and bakend developer, here is a breif re
 
 #### Professional Career Projects (companies)
 - [IPay](https://github.com/Hasanzakii/Ipay.git)
-- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers of project at [Witel](https://witel.ir/) company)
+- [Loan-facilties](https://gitlab.com/witelgroup/loan-facilities.git) (one of the maintainers at [Witel](https://witel.ir/) company)
 - [CRM](https://gitlab.com/witelgroup/crm-server.git)
-- [141](https://141.ir/) (one of the develpers of project at [Witel](https://witel.ir/) company)
-- [Ridesharing-app](https://github.com/Hasanzakii/RideSharing.git) (one of the develpers of project at [Witel](https://witel.ir/) company)
+- [141](https://141.ir/) (one of the develpers at [Witel](https://witel.ir/) company)
+- [Ridesharing-app](https://github.com/Hasanzakii/RideSharing.git) (one of the develpers at [Witel](https://witel.ir/) company)
 
 #### SideProjects
 - [FingerPrint scanner](https://github.com/Hasanzakii/FingerPrint_WindowsForm.git)
