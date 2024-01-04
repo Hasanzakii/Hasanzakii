@@ -1,7 +1,7 @@
 
 <img width="2700" height="300" src="./img/image1.jpg">
 <p align="center">
-Hey, I'm Hasan Zaki,a software engineer and a bakend developer, here is the breif reacp of my CV:
+Hey, I'm Hasan Zaki, software engineer and a bakend developer, here is the breif reacp of my CV:
 </p>
 
 
